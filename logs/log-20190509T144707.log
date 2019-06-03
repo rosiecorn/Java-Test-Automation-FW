@@ -1,0 +1,20 @@
+1014 [main] INFO  ui.LoginTest - Starting TC01_ValidLoginTest
+6432 [main] INFO  ui.LoginTest - End TC01_ValidLoginTest -  Passed
+6560 [main] INFO  ui.LoginTest - Starting TC02_TableTest
+9327 [main] INFO  ui.LoginTest - End TC02_TableTest -  Failed
+9439 [main] INFO  api.shipper.ShipperTest - Starting SH01_VerifyAllExistingShipper
+10284 [main] INFO  api.shipper.ShipperTest - End SH01_VerifyAllExistingShipper -  Passed
+10328 [main] INFO  api.shipper.ShipperTest - Starting SH04_verifyInsertNewShipper
+10712 [main] INFO  api.shipper.ShipperTest - End SH04_verifyInsertNewShipper -  Passed
+10718 [main] INFO  api.shipper.ShipperTest - Starting SH04_verifyInsertNewShipper
+11194 [main] INFO  api.shipper.ShipperTest - End SH04_verifyInsertNewShipper -  Passed
+11233 [main] INFO  api.shipper.ShipperTest - Starting SH02_VerifyShipperSingleLookUpId
+11420 [main] INFO  api.shipper.ShipperTest - End SH02_VerifyShipperSingleLookUpId -  Passed
+11428 [main] INFO  api.shipper.ShipperTest - Starting SH02_VerifyShipperSingleLookUpId
+12690 [main] INFO  api.shipper.ShipperTest - End SH02_VerifyShipperSingleLookUpId -  Passed
+12699 [main] INFO  api.shipper.ShipperTest - Starting SH02_VerifyShipperSingleLookUpId
+13010 [main] INFO  api.shipper.ShipperTest - End SH02_VerifyShipperSingleLookUpId -  Passed
+13045 [main] INFO  api.shipper.ShipperTest - Starting SH03_VerifyShipperSearching
+13282 [main] INFO  api.shipper.ShipperTest - End SH03_VerifyShipperSearching -  Passed
+13288 [main] INFO  api.shipper.ShipperTest - Starting SH03_VerifyShipperSearching
+13516 [main] INFO  api.shipper.ShipperTest - End SH03_VerifyShipperSearching -  Passed

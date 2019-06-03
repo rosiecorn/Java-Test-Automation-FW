@@ -1,0 +1,171 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 10
+  },
+  "time" : {
+    "minDuration" : 181,
+    "maxDuration" : 3449,
+    "sumDuration" : 8798,
+    "start" : 1557388030128,
+    "stop" : 1557388040670,
+    "duration" : 10542
+  },
+  "children" : [ {
+    "uid" : "5f913d0eea71bac2",
+    "name" : "Default feature",
+    "time" : {
+      "minDuration" : 181,
+      "maxDuration" : 3449,
+      "sumDuration" : 8798,
+      "start" : 1557388030128,
+      "stop" : 1557388040670,
+      "duration" : 10542
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "51b9ba96a1fd4055",
+      "name" : "Default story",
+      "time" : {
+        "minDuration" : 181,
+        "maxDuration" : 3449,
+        "sumDuration" : 8798,
+        "start" : 1557388030128,
+        "stop" : 1557388040670,
+        "duration" : 10542
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "d0a0fd727255f7c4",
+        "name" : "TC01_ValidLoginTest",
+        "time" : {
+          "start" : 1557388030128,
+          "stop" : 1557388033577,
+          "duration" : 3449
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "cffbf52b09efc7c6",
+        "name" : "SH01_VerifyAllExistingShipper",
+        "time" : {
+          "start" : 1557388036598,
+          "stop" : 1557388037439,
+          "duration" : 841
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "bf230ae7f3aa7d88",
+        "name" : "SH02_VerifyShipperSingleLookUpId",
+        "time" : {
+          "start" : 1557388039858,
+          "stop" : 1557388040164,
+          "duration" : 306
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "844f6b3f7b4d537f",
+        "name" : "SH02_VerifyShipperSingleLookUpId",
+        "time" : {
+          "start" : 1557388038586,
+          "stop" : 1557388039844,
+          "duration" : 1258
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "c3d5b6379d46e49",
+        "name" : "SH04_verifyInsertNewShipper",
+        "time" : {
+          "start" : 1557388037486,
+          "stop" : 1557388037866,
+          "duration" : 380
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "159e84a4de247c99",
+        "name" : "SH02_VerifyShipperSingleLookUpId",
+        "time" : {
+          "start" : 1557388038393,
+          "stop" : 1557388038574,
+          "duration" : 181
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "4425624e03aae745",
+        "name" : "SH04_verifyInsertNewShipper",
+        "time" : {
+          "start" : 1557388037876,
+          "stop" : 1557388038348,
+          "duration" : 472
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "b70f56b76bab745d",
+        "name" : "SH03_VerifyShipperSearching",
+        "time" : {
+          "start" : 1557388040446,
+          "stop" : 1557388040670,
+          "duration" : 224
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1d8da1417085da26",
+        "name" : "TC02_TableTest",
+        "time" : {
+          "start" : 1557388035026,
+          "stop" : 1557388036480,
+          "duration" : 1454
+        },
+        "status" : "broken",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "7c5ae7993ed0db64",
+        "name" : "SH03_VerifyShipperSearching",
+        "time" : {
+          "start" : 1557388040204,
+          "stop" : 1557388040437,
+          "duration" : 233
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

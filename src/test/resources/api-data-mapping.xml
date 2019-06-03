@@ -1,0 +1,31 @@
+<TestDataEntities>
+    <TestDataEntity>
+        <TestClass>api.shipper.ShipperTest</TestClass>
+        <TestMethod>SH02_VerifyShipperSingleLookUpId</TestMethod>
+        <TestDataFile>api-data.xlsx</TestDataFile>
+        <SheetData>SH02</SheetData>
+        <SqlScript>shipper/getShipperById.sql</SqlScript>
+    </TestDataEntity>
+    <TestDataEntity>
+        <TestClass>api.shipper.ShipperTest</TestClass>
+        <TestMethod>SH03_VerifyShipperSearching</TestMethod>
+        <TestDataFile>api-data.xlsx</TestDataFile>
+        <SheetData>SH03</SheetData>
+        <SqlScript>shipper/getAllShipperFilterByCompanyName.sql</SqlScript>
+    </TestDataEntity>
+    <TestDataEntity>
+        <TestClass>api.shipper.ShipperTest</TestClass>
+        <TestMethod>SH04_verifyInsertNewShipper</TestMethod>
+        <TestDataFile>api-data.xlsx</TestDataFile>
+        <SheetData>SH04</SheetData>
+        <SqlScript>shipper/getShipperById.sql</SqlScript>
+    </TestDataEntity>
+    <TestDataEntity>
+        <TestClass>api.shipper.ShipperTest</TestClass>
+        <TestMethod>SH01_VerifyAllExistingShipper</TestMethod>
+        <TestDataFile></TestDataFile>
+        <SheetData>SH01</SheetData>
+        <SqlScript>shipper/getALLShipper.sql</SqlScript>
+    </TestDataEntity>
+</TestDataEntities>
+

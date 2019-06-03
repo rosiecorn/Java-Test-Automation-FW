@@ -1,0 +1,10 @@
+<TestDataEntities>
+    <TestDataEntity>
+        <TestClass>ui.LoginTest</TestClass>
+        <TestMethod>TC01_ValidLoginTest</TestMethod>
+        <TestDataFile>ui-data.xlsx</TestDataFile>
+        <SheetData>TC01</SheetData>
+        <SqlScript></SqlScript>
+    </TestDataEntity>
+</TestDataEntities>
+

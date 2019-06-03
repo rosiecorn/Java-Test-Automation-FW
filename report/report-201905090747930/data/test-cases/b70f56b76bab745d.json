@@ -1,0 +1,86 @@
+{
+  "uid" : "b70f56b76bab745d",
+  "name" : "SH03_VerifyShipperSearching",
+  "fullName" : "api.shipper.ShipperTest.SH03_VerifyShipperSearching",
+  "historyId" : "cb9d4a0b8aa605f28f5e5144955f2265",
+  "time" : {
+    "start" : 1557388040446,
+    "stop" : 1557388040670,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1557388040440,
+      "stop" : 1557388040444,
+      "duration" : 4
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1557388040672,
+      "stop" : 1557388040672,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "api.shipper.ShipperTest"
+  }, {
+    "name" : "testClass",
+    "value" : "api.shipper.ShipperTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "SH03_VerifyShipperSearching"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "api.shipper.ShipperTest"
+  }, {
+    "name" : "host",
+    "value" : "FVFXX0J7HV2H.local"
+  }, {
+    "name" : "thread",
+    "value" : "39348@FVFXX0J7HV2H.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "shipper"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

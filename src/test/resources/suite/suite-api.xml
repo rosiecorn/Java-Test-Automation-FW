@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Shipper_APIs" parallel="false" thread-count="2">
+    <test name="Regression 2" group-by-instances="true">
+        <classes>
+            <class name="api.shipper.ShipperTest"></class>
+        </classes>
+    </test>
+</suite>

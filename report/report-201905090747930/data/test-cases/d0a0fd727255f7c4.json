@@ -1,0 +1,89 @@
+{
+  "uid" : "d0a0fd727255f7c4",
+  "name" : "TC01_ValidLoginTest",
+  "fullName" : "ui.LoginTest.TC01_ValidLoginTest",
+  "historyId" : "ec9276c643417c5a832cf9fe9c9ebe95",
+  "time" : {
+    "start" : 1557388030128,
+    "stop" : 1557388033577,
+    "duration" : 3449
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1557388028168,
+      "stop" : 1557388029911,
+      "duration" : 1743
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1557388033588,
+      "stop" : 1557388033714,
+      "duration" : 126
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ui.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ui.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC01_ValidLoginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "ui.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "FVFXX0J7HV2H.local"
+  }, {
+    "name" : "thread",
+    "value" : "39348@FVFXX0J7HV2H.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  } ],
+  "parameters" : [ {
+    "name" : "arg1",
+    "value" : "demouser"
+  }, {
+    "name" : "arg0",
+    "value" : "user@phptravels.com"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}
